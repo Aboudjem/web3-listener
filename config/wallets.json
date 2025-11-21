@@ -1,0 +1,118 @@
+[
+  {
+    "label": "Binance 1",
+    "address": "0xd551234ae421e3bcba99a0da6d736074f22192ff"
+  },
+  {
+    "label": "Binance 2",
+    "address": "0xfe9e8709d3215310075d67e3ed32a380ccf451c8"
+  },
+  {
+    "label": "Binance 3",
+    "address": "0xbe0eb53f46cd790cd13851d5eff43d12404d33e8"
+  },
+  {
+    "label": "Binance 4",
+    "address": "0x708396f17127c42383e3b9014072679b2f60b82f"
+  },
+  {
+    "label": "Binance 5",
+    "address": "0x28c6c06298d514db089934071355e5743bf21d60"
+  },
+  {
+    "label": "Binance 6",
+    "address": "0x56eddb7aa87536c09ccc2793473599fd21a8b17f"
+  },
+  {
+    "label": "Binance 7",
+    "address": "0x9696f59e4d72e237be84ffd425dcad154bf96976"
+  },
+  {
+    "label": "Binance 8",
+    "address": "0x8894e0a0c962cb723c1976a4421c95949be2d4e3"
+  },
+  {
+    "label": "Binance 9",
+    "address": "0xb38e8c17e38363af6ebdcb3dae12e0243582891d"
+  },
+  {
+    "label": "Binance 10",
+    "address": "0x1b5b4e441f5a22bfd91b7772c780463f66a74b35"
+  },
+  {
+    "label": "Binance 11",
+    "address": "0x3304e22ddaa22bcdc5fca2269b418046ae7b566a"
+  },
+  {
+    "label": "Binance 12",
+    "address": "0x631fc1ea2270e98fbd9d92658ece0f5a269aa161"
+  },
+  {
+    "label": "Binance 13",
+    "address": "0xe2fc31f816a9b94326492132018c3aecc4a93ae1"
+  },
+  {
+    "label": "Coinbase 1",
+    "address": "0x503828976d22510aad0201ac7ec88293211d23da"
+  },
+  {
+    "label": "Coinbase 2",
+    "address": "0x20fe51a9229eef2cf8ad9e89d91cab9312cf3b7a"
+  },
+  {
+    "label": "Coinbase 3",
+    "address": "0x739120ade7ed878fca5bbdb806263a8258fe2360"
+  },
+  {
+    "label": "Coinbase 4",
+    "address": "0x6dcbce46a8b494c885d0e7b6817d2b519df64467"
+  },
+  {
+    "label": "Coinbase 5",
+    "address": "0x1985ea6e9c68e1c272d8209f3b478ac2fdb25c87"
+  },
+  {
+    "label": "Coinbase 6",
+    "address": "0x40ebc1ac8d4fedd2e144b75fe9c0420be82750c6"
+  },
+  {
+    "label": "MEXC 1",
+    "address": "0x9b64203878f24eb0cdf55c8c6fa7d08ba0cf77e5"
+  },
+  {
+    "label": "MEXC 2",
+    "address": "0x4e3ae00e8323558fa5cac04b152238924aa31b60"
+  },
+  {
+    "label": "Bybit",
+    "address": "0xbaed383ede0e5d9d72430661f3285daa77e9439f"
+  },
+  {
+    "label": "OKX",
+    "address": "0xfd92f4e91d54b9ef91cc3f97c011a6af0c2a7eda"
+  },
+  {
+    "label": "KuCoin 1",
+    "address": "0xf16e9b0d03470827a95cdfd0cb8a8a3b46969b91"
+  },
+  {
+    "label": "KuCoin 2",
+    "address": "0x58edf78281334335effa23101bbe3371b6a36a51"
+  },
+  {
+    "label": "KuCoin 3",
+    "address": "0xa152f8bb749c55e9943a3a0a3111d18ee2b3f94e"
+  },
+  {
+    "label": "KuCoin 4",
+    "address": "0xf8ba3ec49212ca45325a2335a8ab1279770df6c0"
+  },
+  {
+    "label": "HTX",
+    "address": "0x2abc22eb9a09ebbe7b41737ccde147f586efeb6a"
+  },
+  {
+    "label": "Bitget",
+    "address": "0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23"
+  }
+]
